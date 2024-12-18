@@ -8,7 +8,7 @@
 
 [Fork](https://github.com/Narsky7/gazelle)
 
-[Artykuł na papersWithCode]([https://github.com/Narsky7/gazelle](https://paperswithcode.com/paper/gaze-lle-gaze-target-estimation-via-large))
+[Artykuł na papersWithCode]([https://github.com/Narsky7/gazelle](https://paperswithcode.com/paper/gaze-lle-gaze-target-estimation-via-large)
 
 :skull: **About**  
 
